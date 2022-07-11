@@ -42,7 +42,7 @@ h1{
     width: 36px;
     height: 36px;
     margin-right: 13px;
-    background: url("Cafeteria/assets/icons/Logo-cafe.svg");
+    background: url("/Cafeteria/assets/icons/Logo-cafe.svg");
 }
 .header__text{
     width: 90%;
@@ -80,7 +80,7 @@ h1{
 .icono--productos{
     width: 25px;
     height: 25px;
-    background: url("Cafeteria/assets/icons/granos-cafe.svg");    
+    background: url("/Cafeteria/assets/icons/granos-cafe.svg");    
 }
 .icono{
     display: inline-block;
