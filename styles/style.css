@@ -42,7 +42,7 @@ h1{
     width: 36px;
     height: 36px;
     margin-right: 13px;
-    background: url("/Cafeteria/assets/icons/Logo-cafe.svg");
+    background: url("/assets/icons/Logo-cafe.svg");
 }
 .header__text{
     width: 90%;
@@ -80,7 +80,7 @@ h1{
 .icono--productos{
     width: 25px;
     height: 25px;
-    background: url("/Cafeteria/assets/icons/granos-cafe.svg");    
+    background: url("/assets/icons/granos-cafe.svg");    
 }
 .icono{
     display: inline-block;
@@ -106,7 +106,7 @@ main{
     width: 288px;
     height: 274px;
     margin: 0 auto;
-    background-image: url("Cafeteria/assets/icons/Ilustracion.svg");
+    background-image: url("/assets/icons/Ilustracion.svg");
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
@@ -137,7 +137,7 @@ main{
     max-width: 500px;
     height: 304px;
     margin: 0 auto;
-    background-image: url("Cafeteria/assets/icons/bubble.svg");
+    background-image: url("/assets/icons/bubble.svg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -269,23 +269,23 @@ tr .right{
     background-repeat: no-repeat;
 }
 .icono__card--manos{
-    background-image: url("Cafeteria/assets/icons/icono-tarjeta-manos.svg");
+    background-image: url("/assets/icons/icono-tarjeta-manos.svg");
 }
 .icono__card--bolsa{
-    background-image: url("Cafeteria/assets/icons/icono-tarjeta-bolsa_cafe.svg");
+    background-image: url("/assets/icons/icono-tarjeta-bolsa_cafe.svg");
 }
 .icono__card--vaso{
-    background-image: url("Cafeteria/assets/icons/icono-tarjeta-vaso-cafe.svg");
+    background-image: url("/assets/icons/icono-tarjeta-vaso-cafe.svg");
 }
 .icono__card--cafe{
-    background-image: url("Cafeteria/assets/icons/granos-cafe.svg");
+    background-image: url("/assets/icons/granos-cafe.svg");
 }
 /*fondo cafe*/
 .background__cafe{
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url("Cafeteria/assets/img/cafe\ medium.jpg");
+    background-image: url("/assets/img/cafe\ medium.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -310,7 +310,7 @@ tr .right{
     width: 48px;
     height: 48px;
     margin-bottom: 10px;
-    background-image: url("Cafeteria/assets/icons/logo-blancoynegro.svg");
+    background-image: url("/assets/icons/logo-blancoynegro.svg");
 }
 .productos__texto{
     width: 90%;
@@ -342,13 +342,13 @@ tr .right{
     color: var(--Gris);
 }
 .producto1{
-    background-image: url("Cafeteria/assets/img/FondoTarjeta1.avif");
+    background-image: url("/assets/img/FondoTarjeta1.avif");
 }
 .producto2{
-    background-image: url("Cafeteria/assets/img/FondoTarjeta2.avif");
+    background-image: url("/assets/img/FondoTarjeta2.avif");
 }
 .producto3{
-    background-image: url("Cafeteria/assets/img/FondoTarjeta3.avif");
+    background-image: url("/assets/img/FondoTarjeta3.avif");
 }
 .producto{
     width: 60%;
@@ -446,7 +446,7 @@ tr .right{
     width: 100%;
     height:auto;
     min-width: 320px;
-    background-image:url("Cafeteria/assets/icons/fondogaleria.svg") ;
+    background-image:url("/assets/icons/fondogaleria.svg") ;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -462,13 +462,13 @@ tr .right{
     padding: 18px 0 36px;
 }
 .foto1{
-    background-image: url("Cafeteria/assets/img/Galeria1.avif");
+    background-image: url("/assets/img/Galeria1.avif");
 }
 .foto2{
-    background-image: url("Cafeteria/assets/img/Galeria2.avif");
+    background-image: url("/assets/img/Galeria2.avif");
 }
 .foto3{
-    background-image: url("Cafeteria/assets/img/Galeria3.avif");
+    background-image: url("/assets/img/Galeria3.avif");
 }
 .galeria__fotos .foto{
     width: 100%;
@@ -502,17 +502,17 @@ footer{
 .linkedin{
     width: 90px;
     height: 37px;
-    background-image: url("Cafeteria/assets/icons/LinkIn.svg");
+    background-image: url("/assets/icons/LinkIn.svg");
 }
 .twitter{
     width: 40px;
     height: 44px;
-    background-image: url("Cafeteria/assets/icons/Twitter.svg");
+    background-image: url("/assets/icons/Twitter.svg");
 }
 .instagram{
     width: 40px;
     height: 44px;
-    background-image: url("Cafeteria/assets/icons/instagram.svg");
+    background-image: url("/assets/icons/instagram.svg");
 }
 .icon__footer{
     width: 50%;
@@ -525,7 +525,7 @@ footer{
     width: 50px;
     height: 50px;
     display: inline-block;
-    background-image: url("Cafeteria/assets/icons/Logo-cafe.svg");
+    background-image: url("/assets/icons/Logo-cafe.svg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
