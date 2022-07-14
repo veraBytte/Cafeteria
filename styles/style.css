@@ -42,7 +42,7 @@ h1{
     width: 36px;
     height: 36px;
     margin-right: 13px;
-    background: url("/assets/icons/Logo-cafe.svg");
+    background: url("../assets/icons/Logo-cafe.svg");
 }
 .header__text{
     width: 90%;
